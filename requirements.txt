@@ -1,4 +1,4 @@
---index-url https://pytorch.org
+--extra-index-url https://pytorch.org
 torch
 torchvision
 streamlit
